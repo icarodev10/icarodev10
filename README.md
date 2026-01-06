@@ -28,11 +28,25 @@ Gosto de criar soluções práticas para problemas reais, explorando **interface
  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+ <img src="https://img.shields.io/badge/YOLOv8-FF00E4?style=for-the-badge&logo=yolo&logoColor=white"/>
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 👁️ SafeVision Showcase
+👷 **Monitoramento Inteligente de EPI com IA**
+
+✨ Sistema de Visão Computacional que monitora o uso de equipamentos de segurança (Capacete, Luvas, Óculos) em tempo real, integrando detecção YOLOv8 com banco de dados para registro de infrações.
+
+🔸 **Destaques**
+- 🧠 **IA Relacional:** Valida se o EPI está *na pessoa* (não apenas solto no cenário)
+- ⚡ **Backend Robusto:** FastAPI com streaming MJPEG e WebSockets
+- 🗄️ **Auditoria:** Registro automático de fotos e logs no MySQL
+
+🔗 https://github.com/icarodev10/SafeVision-Showcase
+
 
 ### 🎮 Gesture Media Controller
 🖐️ **Controle de mídia sem toque usando gestos**
@@ -83,10 +97,17 @@ Gosto de criar soluções práticas para problemas reais, explorando **interface
 
 ## 🌐 Onde me encontrar
 
-🔗 **GitHub:** 
-https://github.com/icarodev10 
-
-https://www.linkedin.com/in/icaro-souza-ti/
+<div align="left">
+  <a href="https://github.com/icarodev10" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/icaro-souza-ti/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="icaroisl257@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 💬 Sempre aberto a ideias, colaborações e novos desafios!
 
