@@ -13,6 +13,15 @@ Gosto de criar soluções práticas para problemas reais, explorando **interface
 
 ---
 
+## 📊 Minhas Estatísticas
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarodev10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarodev10&layout=compact&theme=dracula"/>
+</div>
+
+---
+
 ## 🎨 Tecnologias & Ferramentas
 
 <p align="left">
