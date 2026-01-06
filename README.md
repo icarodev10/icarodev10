@@ -1,1 +1,104 @@
-# Icaro-Souza-Lima
+# 👋 Olá! Eu sou o **Icaro** 🚀
+
+<p align="left">
+ 💻 Desenvolvedor | 🐍 Python | 🤖 Visão Computacional | 🌐 Web
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia, focado em **Python**, **Visão Computacional**, **automação** e **desenvolvimento web**. 
+Gosto de criar soluções práticas para problemas reais, explorando **interfaces inteligentes**, **sistemas sem toque** e **aplicações funcionais**.
+
+---
+
+## 🎨 Tecnologias & Ferramentas
+
+<p align="left">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge"/>
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+ <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+ <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+ <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🎮 Gesture Media Controller
+🖐️ **Controle de mídia sem toque usando gestos**
+
+✨ Um sistema que permite controlar volume e mídia apenas com movimentos da mão, utilizando visão computacional.
+
+🔸 **Funcionalidades**
+- 🔊 Ajuste de volume por gesto
+- ▶️⏸️ Play / Pause sem contato
+- ⏭️ Troca de faixa com gestos
+- 🧠 Lógica inteligente para evitar comandos acidentais
+
+
+🔗 https://github.com/icarodev10/Gesture-Media-Controller
+
+---
+
+### 🏭 Handora Showcase
+🧤 **Interface sem toque para ambientes industriais**
+
+✨ Projeto desenvolvido para permitir interação com sistemas em locais onde não é possível usar mouse ou toque.
+
+🔸 **Características**
+- 🤖 Navegação por gestos
+- 🧼 Ideal para ambientes contaminados
+- 🏗️ Pensado para uso industrial
+
+
+
+🔗 https://github.com/icarodev10/Handora-Showcase
+
+---
+
+### 📦 Sistema de Gestão de Estoque
+📊 **Aplicação web para controle de estoque**
+
+✨ Sistema para gerenciar produtos, validade e rastreabilidade de forma simples e eficiente.
+
+🔸 **Funcionalidades**
+- 📋 Cadastro de produtos e lotes
+- ⏰ Alertas de validade
+- 🔐 Painel administrativo com Django Admin
+
+
+🔗 https://github.com/icarodev10/gestao-estoque
+
+---
+
+## 🌐 Onde me encontrar
+
+🔗 **GitHub:** 
+https://github.com/icarodev10 
+
+https://www.linkedin.com/in/icaro-souza-ti/
+
+💬 Sempre aberto a ideias, colaborações e novos desafios!
+
+---
+
+## ⭐ Apoie meu trabalho
+
+Se curtir algum projeto:
+- ⭐ Deixe uma estrela no repositório
+- 🤝 Conecte-se comigo
+- 🚀 Acompanhe as próximas evoluções
+
+---
+
+🎨 *Perfil em constante evolução*
