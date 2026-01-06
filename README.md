@@ -47,6 +47,7 @@ Gosto de criar soluções práticas para problemas reais, explorando **interface
 
 🔗 https://github.com/icarodev10/SafeVision-Showcase
 
+---
 
 ### 🎮 Gesture Media Controller
 🖐️ **Controle de mídia sem toque usando gestos**
