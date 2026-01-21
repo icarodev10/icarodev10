@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o **Icaro** 🚀
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <br>
   <strong>Desenvolvedor de Software | Foco em Automação & Visão Computacional</strong>
   <br><br>
