@@ -100,8 +100,9 @@ Controle o computador apenas com movimentos das mãos, sem tocar em nada.
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarodev10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarodev10&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icarodev10&show_icons=true&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarodev10&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 ---
