@@ -109,5 +109,5 @@ Controle o computador apenas com movimentos das mãos, sem tocar em nada.
 
 <div align="center">
   <p>📫 <strong>Contato:</strong> <a href="mailto:icaroisl257@gmail.com">icaroisl257@gmail.com</a></p>
-  <p><em>"A melhor maneira de prever o futuro é criá-lo"</em></p>
+  <p><em>"A melhor maneira de prever o futuro é inventá-lo"</em></p>
 </div>
