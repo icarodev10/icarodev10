@@ -18,9 +18,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por resolver problemas reais. Meu foco não é apenas escrever código, mas criar **soluções que economizam tempo e aumentam a segurança**.
+Sou um desenvolvedor apaixonado por resolver problemas reais. Meu foco não é apenas escrever código, mas criar soluções que automatizam tarefas e aumentam a segurança.
 
-Atualmente, combino **Visão Computacional** (para indústria e segurança) com **RPA/Automação** (para processos administrativos), criando pontes entre o mundo físico e o digital.
+Tenho experiência sólida em Visão Computacional (YOLOv8, OpenCV) aplicadas à segurança industrial, RPA/Web Scraping (Selenium, Pandas) para inteligência de dados, e construção de APIs/Backends modulares (Flask, FastAPI). Gosto de criar a ponte entre o dado bruto e a solução visual.
 
 ---
 
@@ -54,14 +54,23 @@ Atualmente, combino **Visão Computacional** (para indústria e segurança) com 
 
 ## 🚀 Projetos em Destaque
 
-### ✈️ Flight Sniper (RPA)
-🤖 **Automação de Coleta de Preços de Passagens**
-> *Ideal para logística e monitoramento de preços.*
+### 🏭 SGMI - Sistema de Gerenciamento de Manutenção Industrial
+⚙️ **Backend Modular & Automação de Chão de Fábrica**
+> *Sistema completo de controle de ativos e ordens de serviço com integração de IA.*
 
-Robô inteligente que monitora sites de companhias aéreas automaticamente.
+Plataforma desenvolvida para digitalizar a manutenção industrial, do cadastro da máquina à notificação do técnico.
+- **Tech:** Python (Flask), MySQL, API Google Gemini, HTML/JS/CSS.
+- **Destaque:** Arquitetura 100% modular, RBAC (Controle de Acesso), Assistente IA integrado e modelos 3D dinâmicos.
+- 🔗 [Ver Repositório](https://github.com/icarodev10/SGMI)
+
+---
+
+
+### 🎯 Web Scraping & RPA (Snipers)
+🤖 **Automação de Coleta de Dados (Voos e Hotéis)**
+> *Robôs autônomos para garimpar dados em massa.*
 - **Tech:** Python, Selenium, Pandas.
-- **Destaque:** Navegação autônoma, coleta de dados em massa e geração de relatórios de melhores ofertas.
-- 🔗 [Ver Repositório](https://github.com/icarodev10/Flight-Sniper)
+- ✈️ [Flight Sniper](https://github.com/icarodev10/flight-sniper) | 🏨 [Hotel Sniper](https://github.com/icarodev10/hotel-sniper)
 
 ---
 
