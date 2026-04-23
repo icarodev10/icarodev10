@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por resolver problemas reais. Meu foco não é apenas escrever código, mas criar soluções que automatizam tarefas e aumentam a segurança.
+Desenvolvedor focado em resolver problemas reais. Meu foco não é apenas escrever código, mas criar soluções que automatizam tarefas e aumentam a segurança.
 
 Tenho experiência sólida em Visão Computacional (YOLOv8, OpenCV) aplicadas à segurança industrial, RPA/Web Scraping (Selenium, Pandas) para inteligência de dados, e construção de APIs/Backends modulares (Flask, FastAPI). Gosto de criar a ponte entre o dado bruto e a solução visual.
 
