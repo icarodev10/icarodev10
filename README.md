@@ -57,7 +57,7 @@ Desenvolvedor focado em backends modulares, visão computacional e automação. 
 
 ---
 
-## 🔬 Roleplay:
+## 🔬 Outros:
 
 Provas de conceito e projetos de integração:
 
