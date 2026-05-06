@@ -54,7 +54,7 @@ Desenvolvedor focado em backends modulares, visão computacional e automação. 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 </p>
-<p align="left"><i>Integração de Sensores (RFID, Ultrassônicos, Servomotores etc.)</i></p>
+<p align="left"><i>Integração de Sensores (Ultrassônicos, Servomotores etc.)</i></p>
 
 ---
 
