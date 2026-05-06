@@ -21,11 +21,40 @@ Desenvolvedor focado em backends modulares, visão computacional e automação. 
 
 ## 🛠️ Stack Tecnológico
 
-*   **Linguagens:** Python, C/C++, GDScript, JavaScript.
-*   **Visão Computacional & IA:** OpenCV, YOLOv8, MediaPipe.
-*   **Backend & APIs:** FastAPI, Flask, SQLite, MySQL.
-*   **Automação & Scraping:** Selenium, Pandas.
-*   **Hardware & Embarcados:** Arduino, Integração de Sensores (Ultrassônico, Servomotores etc.).
+### Linguagens
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Godot_GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+### Visão Computacional & IA
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00BFFF?style=flat-square&logoColor=white"/>
+</p>
+
+### Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### Automação & Scraping
+<p align="left">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+</p>
+
+### Hardware & Embarcados
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+</p>
+<p align="left"><i>Integração de Sensores (RFID, Ultrassônicos, Servomotores etc.)</i></p>
 
 ---
 
@@ -57,7 +86,7 @@ Desenvolvedor focado em backends modulares, visão computacional e automação. 
 
 ---
 
-## 🔬 Outros:
+## 🔬 Outros
 
 Provas de conceito e projetos de integração:
 
