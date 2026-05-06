@@ -15,7 +15,7 @@
 
 ## Sobre
 
-Desenvolvedor focado em backends modulares, visão computacional e automação. Tenho experiência em criar desde sistemas de gestão e APIs até integrações diretas com hardware e sensores. Gosto de atuar na ponte entre o dado bruto, o mundo físico e a solução final do usuário, projetando arquiteturas escaláveis e explorando tecnologias aplicadas à segurança industrial e otimização de processos.
+Desenvolvedor focado em backends modulares, visão computacional e automação. Tenho experiência em criar desde sistemas de gestão e APIs até integrações diretas com hardware e sensores. Atuo na ponte entre o dado bruto, o mundo físico e a solução final do usuário, projetando arquiteturas escaláveis e explorando tecnologias aplicadas à segurança industrial e otimização de processos.
 
 ---
 
